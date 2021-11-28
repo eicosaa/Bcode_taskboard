@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Bcode_practice\B_Memo_Part\bin\Debug\B_Memo_Part.exe.config
+C:\Users\admin\source\repos\Bcode_practice\B_Memo_Part\bin\Debug\B_Memo_Part.exe
+C:\Users\admin\source\repos\Bcode_practice\B_Memo_Part\bin\Debug\B_Memo_Part.pdb
+C:\Users\admin\source\repos\Bcode_practice\B_Memo_Part\obj\Debug\B_Memo_Part.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Bcode_practice\B_Memo_Part\obj\Debug\B_Memo_Part.Form1.resources
+C:\Users\admin\source\repos\Bcode_practice\B_Memo_Part\obj\Debug\B_Memo_Part.Form2.resources
+C:\Users\admin\source\repos\Bcode_practice\B_Memo_Part\obj\Debug\B_Memo_Part.Form3.resources
+C:\Users\admin\source\repos\Bcode_practice\B_Memo_Part\obj\Debug\B_Memo_Part.Properties.Resources.resources
+C:\Users\admin\source\repos\Bcode_practice\B_Memo_Part\obj\Debug\B_Memo_Part.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Bcode_practice\B_Memo_Part\obj\Debug\B_Memo_Part.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Bcode_practice\B_Memo_Part\obj\Debug\B_Memo_Part.exe
+C:\Users\admin\source\repos\Bcode_practice\B_Memo_Part\obj\Debug\B_Memo_Part.pdb
